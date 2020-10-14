@@ -1,0 +1,9 @@
+---
+vm:
+  box: "ph20/blackarch-full-x86_64"
+  cpus: 2
+  gui: true
+  hostname: blackarch
+  memory: 2048
+  name: blackarch
+  timezone: AEST
